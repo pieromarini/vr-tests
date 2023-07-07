@@ -15,5 +15,5 @@ MonoBehaviour:
   flowerName: Flower 1
   water: 20
   fertilizer: 40
-  timeToWaterTicks: 5000
-  timeToFertilizerTicks: 5000
+  timeToWaterMinutes: 0.5
+  timeToFertilizerMinutes: 200
